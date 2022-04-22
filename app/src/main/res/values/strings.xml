@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Registro empledos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_lista">Lista de Empleados</string>
+    <string name="menu_crear">Registrar un empleado</string>
+    <string name="menu_modificar">Consultar Empleados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="invalid_nombre">Ingrese un nombre valido</string>
+    <string name="invalid_apellido">Ingrese un apellido valido</string>
+    <string name="invalid_edad">Ingrese una edad valida</string>
+    <string name="invalid_direccion">Ingrese un apellido valido</string>
+    <string name="invalid_puesto">Seleccione un puesto</string>
+
+</resources>
